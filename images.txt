@@ -1,1 +1,2 @@
-docker.io/library/python:3.11-slim-bookworm
+prom/prometheus:latest
+prom/alertmanager:latest
