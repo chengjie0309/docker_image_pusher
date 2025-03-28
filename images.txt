@@ -1,1 +1,1 @@
-gradle:8.13-jdk21
+docker.stirlingpdf.com/stirlingtools/stirling-pdf:latest
