@@ -1,1 +1,1 @@
-docker.stirlingpdf.com/stirlingtools/stirling-pdf:latest
+wcjiang/docker-static-website:latest
