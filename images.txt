@@ -1,1 +1,1 @@
-wcjiang/docker-static-website:latest
+wcjiang/reference:latest
