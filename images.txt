@@ -1,1 +1,1 @@
-wcjiang/reference:latest
+docker pull wcjiang/linux-command:latest
