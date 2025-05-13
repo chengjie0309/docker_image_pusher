@@ -1,1 +1,2 @@
-ghcr.io/warp-tech/warpgate
+docker.io/library/debian:bullseye-20221024
+docker.io/library/rust:1.79.0-bullseye
