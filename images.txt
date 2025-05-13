@@ -1,1 +1,1 @@
-ghcr.io/eugeny/tabby-web:latest
+ghcr.io/warp-tech/warpgate
