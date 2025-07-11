@@ -1,2 +1,1 @@
-docker.io/library/debian:bullseye-20221024
-docker.io/library/rust:1.79.0-bullseye
+gitlab/gitlab-ce:17.10.8
