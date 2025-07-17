@@ -1,2 +1,1 @@
-grafana/grafana:12.0.2
-grafana/grafana-enterprise:12.0.2
+metagpt/metagpt:latest
