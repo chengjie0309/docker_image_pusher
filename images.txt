@@ -1,4 +1,10 @@
-milvusdb/milvus:v2.6.2
-milvusdb/milvus:v2.6.0-gpu
-minio/minio:RELEASE.2024-12-18T13-15-44Z
-quay.io/coreos/etcd:v3.5.5
+goharbor/harbor-log:v2.15.0
+goharbor/registry-photon:v2.15.0
+goharbor/harbor-registryctl:v2.15.0
+goharbor/harbor-db:v2.15.0
+goharbor/harbor-core:v2.15.0
+goharbor/harbor-portal:v2.15.0
+goharbor/harbor-jobservice:v2.15.0
+goharbor/redis-photon:v2.15.0
+goharbor/nginx-photon:v2.15.0
+goharbor/trivy-adapter-photon:v2.15.0
