@@ -1,1 +1,1 @@
-goharbor/prepare:v2.15.0
+zilliz/attu:v2.6
