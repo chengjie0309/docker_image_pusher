@@ -1,1 +1,1 @@
-zilliz/attu:v2.6
+vllm/vllm-openai-cpu:v0.20.2-x86_64
