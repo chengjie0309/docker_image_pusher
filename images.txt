@@ -1,1 +1,5 @@
-vllm/vllm-openai-cpu:v0.20.2-x86_64
+confluentinc/cp-zookeeper:7.6.1
+confluentinc/cp-kafka:7.6.1
+confluentinc/cp-schema-registry:7.6.1
+confluentinc/cp-kafka-connect:7.6.1
+provectus/kafka-ui:latest
