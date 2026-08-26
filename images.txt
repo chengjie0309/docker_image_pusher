@@ -1,1 +1,1 @@
-m.daocloud.io/docker.io/vllm/vllm-openai-cpu:v0.20.2-x86_64
+pytorch/pytorch:2.1.0-cuda118-cudnn8-devel
