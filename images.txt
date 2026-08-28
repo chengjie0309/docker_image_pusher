@@ -1,1 +1,1 @@
-cvat/server:v2.20.0
+cvat/server:v2.74.0
