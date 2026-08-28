@@ -1,1 +1,1 @@
-pytorch/pytorch:2.1.0-cuda118-cudnn8-devel
+cvat/server:v2.20.0
