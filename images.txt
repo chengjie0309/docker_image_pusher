@@ -1,1 +1,1 @@
-cvat/ui:v2.20.0
+docker.io/openvino/ubuntu22_runtime:2023.3.0
