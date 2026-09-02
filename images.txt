@@ -1,1 +1,2 @@
-docker.io/openvino/ubuntu22_runtime:2023.3.0
+gcr.io/iguazio/uhttpc:0.0.3-amd64
+gcr.io/iguazio/alpine:3.20
