@@ -1,2 +1,1 @@
-gcr.io/iguazio/uhttpc:0.0.3-amd64
-gcr.io/iguazio/alpine:3.20
+ubuntu:22.04
